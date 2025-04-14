@@ -2,7 +2,8 @@
 - 👀 Excited to contribute to the everevolving field of computer science with fresh
 ideas and enthusiasm. Committed to continuous
 learning and growth.
-- 🌱 I’m currently learning linux, git and aws cloud.
+- 🌱 I've  learned  linux, git and aws cloud.
+- I'm currently learning Graphic Designing & UI/UX designs. 
 - 📫 You can reach me on my email "kalpanarathor716@gmail.com"
 - 😄 Pronouns: Kalpana 
 - ⚡ Fun fact: I can swim all day haha
